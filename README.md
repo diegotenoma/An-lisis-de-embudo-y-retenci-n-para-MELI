@@ -1,6 +1,4 @@
-# Analisis-de-embudo-y-retencion-para-MELI
-
-🛒 Análisis de Embudo y Retención — MercadoLibre LATAM
+# 🛒 Análisis de Embudo y Retención — MercadoLibre LATAM
 
 Análisis del comportamiento de usuarios en el funnel de compra y retención por cohortes para MercadoLibre, cubriendo 10 países de América Latina durante el periodo enero–agosto 2025. El objetivo es identificar los puntos de mayor fricción en el proceso de compra y los patrones de abandono a lo largo del tiempo.
 
